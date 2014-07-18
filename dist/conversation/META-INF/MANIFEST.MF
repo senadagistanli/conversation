@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.3
+Created-By: 1.7.0_25-b17 (Oracle Corporation)
+Class-Path: lib/dom4j-1.7-20060614.jar lib/poi-ooxml-3.10-FINAL-201402
+ 08.jar lib/poi-ooxml-schemas-3.9.jar lib/poi-scratchpad-3.9.jar lib/x
+ mlbeans-2.4.0.jar lib/poi-3.10-FINAL-20140208.jar lib/pdfbox-app-1.8.
+ 6.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: conversation.Conversation
+
